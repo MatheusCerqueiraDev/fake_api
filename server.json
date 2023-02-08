@@ -1,0 +1,40 @@
+{
+	"coins": [
+		{
+			"id": 1,
+			"title": "Bitcoin",
+			"price": 121152.22,
+			"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng%2F8505801-bitcoin-logo-color-png-illustration&psig=AOvVaw151-dK51LPSUyqC84x_EZX&ust=1675899896461000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKDa1-HLhP0CFQAAAAAdAAAAABAE"
+		},
+		{
+			"id": 2,
+			"title": "Solana",
+			"price": 23.33,
+			"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Fsolana&psig=AOvVaw0EfTdaz1TL-8cS3DXk2TQQ&ust=1675899929432000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjJxPHLhP0CFQAAAAAdAAAAABAE"
+		},
+		{
+			"id": 3,
+			"title": "Binance Coin",
+			"price": 1736.92,
+			"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dbnb&psig=AOvVaw3M6hAzGew3lWHpEFEVpJZx&ust=1675900031733000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCICmmKLMhP0CFQAAAAAdAAAAABAE"
+		},
+		{
+			"id": 4,
+			"title": "DogeCoin",
+			"price": 0.48,
+			"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos-download.com%2F26568-dogecoin-logo-download.html&psig=AOvVaw2LwqEEWOmapDdqBBuK8vek&ust=1675900065860000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDFsbLMhP0CFQAAAAAdAAAAABAE"
+		},
+		{
+			"id": 5,
+			"title": "Ethereum",
+			"price": 8726.06,
+			"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3AEthereum_logo_2014.svg&psig=AOvVaw0SkV9Weg2j_82L1oJPrmly&ust=1675900521255000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODkgovOhP0CFQAAAAAdAAAAABAR"
+		},
+		{
+			"id": 6,
+			"title": "Cardano",
+			"price": 2.08,
+			"image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fcryptologos.cc%2Fcardano&psig=AOvVaw1es2H6tpX9E-ISsV6vuqvf&ust=1675900585801000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICp7anOhP0CFQAAAAAdAAAAABAE"
+		}
+	]
+}
